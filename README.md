@@ -5,6 +5,6 @@
 🚀 Currently building and exploring new projects  
 🌱 Always learning and growing
 
-🌐 My Portfolio https://rinsham10.github.io/v1/
+🌐 My Portfolio https://rinsham10.github.io/portfolio/
 
 LinkedIn https://www.linkedin.com/in/mohammedrinsham/
